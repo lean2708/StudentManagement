@@ -1,0 +1,11 @@
+ID : 1
+Name : le van an
+Birthday : 27/08/2004
+Address : thanh hoa
+Height : 170.0
+Weight : 56.0
+Student Code : b22dcpt003
+University : tt
+Start Year : 2022
+GPA: 8.8
+Academic Ability: Giỏi

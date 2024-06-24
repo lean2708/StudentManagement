@@ -1,0 +1,22 @@
+ID : 1
+Name : le van an
+Birthday : 29/02/2004
+Address : thanh hoa
+Height : 170.0
+Weight : 55.0
+Student Code : b22dcpt003
+University : ptit
+Start Year : 2022
+GPA: 9.2
+Academic Ability: Xuất Sắc
+ID : 2
+Name : thuy dung
+Birthday : 21/03/2005
+Address : thanh hoa
+Height : 170.0
+Weight : 55.0
+Student Code : b22dcpt005
+University : ptit
+Start Year : 2022
+GPA: 10.0
+Academic Ability: Xuất Sắc
