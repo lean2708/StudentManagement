@@ -1,5 +1,3 @@
-package fact;
-
 import fact.service.Examine;
 import service.ArrayStudent;
 import fact.Student;
